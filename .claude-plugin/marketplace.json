@@ -1,0 +1,19 @@
+{
+  "name": "claude-pin-message",
+  "owner": {
+    "name": "GruperTal",
+    "url": "https://github.com/GruperTal"
+  },
+  "metadata": {
+    "description": "Pin a Claude response beside the conversation in Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "pin-message",
+      "source": "./",
+      "description": "Pin selected text or Claude's last response to a side pane that stays visible while the conversation scrolls on",
+      "category": "productivity",
+      "tags": ["pin", "pane", "sidebar", "mod", "terminal"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pin-message",
+  "version": "0.1.0",
+  "description": "Pin selected text or Claude's last response to a side pane that stays visible while the conversation scrolls on",
+  "author": {
+    "name": "GruperTal",
+    "url": "https://github.com/GruperTal"
+  },
+  "homepage": "https://github.com/GruperTal/claude-pin-message",
+  "repository": "https://github.com/GruperTal/claude-pin-message",
+  "license": "MIT",
+  "keywords": ["pin", "pane", "sidebar", "mod", "terminal", "claude-code"],
+  "types": "./types/index.d.ts"
+}
